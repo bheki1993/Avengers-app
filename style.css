@@ -2,6 +2,13 @@
     width: 100%;
 }
 
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+}
+
 h4{
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
